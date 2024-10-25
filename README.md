@@ -10,6 +10,7 @@
 🚀 **Currently diving into bot development and practical tools, with a dash of creativity and a sprinkle of persistence.**
 
 ☕ **Coffee lover and collector of terrible coding jokes.**
+
 ⚡ **Fun fact:** I'm not a robot '_'
 
 <!---
