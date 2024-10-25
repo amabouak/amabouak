@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/GitHubCloud/GitHubCloud/main/helloworld.gif" width="600" height="300"/>
 </div>
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @xomiscid
 - 👀 I’m interested in Computer Science & Gaming 
 - 🌱 I’m currently learning languages
