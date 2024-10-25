@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://raw.githubusercontent.com/GitHubCloud/GitHubCloud/main/helloworld.gif" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/GitHubCloud/GitHubCloud/main/helloworld.gif" width="600" height="300"/>
 </div>
 
 
