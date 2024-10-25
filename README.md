@@ -1,5 +1,6 @@
-
-
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://raw.githubusercontent.com/GitHubCloud/GitHubCloud/main/helloworld.gif)" width="600" height="300"/>
+</div>
 - 👋 Hi, I’m @xomiscid
 - 👀 I’m interested in Computer Science & Gaming 
 - 🌱 I’m currently learning languages
