@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/GitHubCloud/GitHubCloud/main/helloworld.gif" width="600" height="300"/>
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br>
 
 👩‍💻 **Developer in the Making & Bug Hunter** – I write code, debug tirelessly, and bring wild ideas to life. When I'm not coding, I'm dreaming of making the web a bit friendlier (and maybe a tad less moody).
 
