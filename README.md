@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** HTML, CSS, JavaScript, React.js, C, Python, SQL  
+- **Languages:** HTML, CSS, JavaScript, C, Python, SQL  
 - **Databases:** MySQL, MariaDB  
 - **Tools & IDEs:** Visual Studio, IntelliJ, XAMPP, Packet Tracer, Blender, SAP
 
