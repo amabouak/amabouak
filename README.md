@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.planadviser.com%2Fexclusives%2Fhelping-relieve-clients-retirement-plan-cybersecurity-concerns%2F&psig=AOvVaw2WM9ZIEWMBN-EZmMbCGq5E&ust=1745654442031000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCcvNrb8owDFQAAAAAdAAAAABAJ" width="600" height="300"/>
 </div>
 
 ---
