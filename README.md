@@ -4,30 +4,46 @@
 
 ---
 
-## 🌑 Khamis Amaboua – Developer in Progress & Bug Hunter 
+<h2 align="center">🌑 Khamis Amaboua – Developer in Progress & Bug Whisperer</h2>
 
-👩🏾‍💻 **Développeuse junior passionnée** basée à Dakar, je transforme des idées en code et des bugs en fonctionnalités.  
-Curieuse, rigoureuse et toujours prête à apprendre, je jongle entre développement web, projets associatifs et café serré.
+<p align="center">
+  A curious mind turning ideas into code and bugs into features. <br>
+  Passionate about building tools, solving problems, and sipping strong coffee.
+</p>
 
-### 🔧 Stack & Compétences
+---
 
-- **Langages** : HTML, CSS, JavaScript, React.js, C, Python, SQL  
-- **Bases de données** : MySQL, MariaDB  
-- **Outils** : Visual Studio, Intellij, Xampp, Packet Tracer, Blender, SAP  
+### 🛠️ Tech Stack & Tools
 
-### 📚 Formations & Certifications
+- **Languages:** HTML, CSS, JavaScript, React.js, C, Python, SQL  
+- **Databases:** MySQL, MariaDB  
+- **Tools & IDEs:** Visual Studio, IntelliJ, XAMPP, Packet Tracer, Blender, SAP
 
-- 🎓 Licence en Génie Informatique – Supdeco Dakar (ESITEC)  
-- 🛡️ ANSSI – SecNum Académie  
-- 🔐 Cisco CCST Cybersecurity & Ethical Hacker
+---
 
-### 💬 Langues
+### 🎓 Education & Certifications
 
-- 🇫🇷 Français : B2  
-- 🇬🇧 Anglais : A2
+- 🎓 Bachelor's Degree in Computer Engineering – Supdeco Dakar (ESITEC)  
+- 🛡️ ANSSI – *SecNum Académie*  
+- 🔐 Cisco Certified Support Technician (CCST) – Cybersecurity  
+- 👾 Cisco Ethical Hacker
 
-### 🌌 Fun Facts
+---
 
-- ☕ Accro au café et aux jeux de mots (même les pires)  
-- ✨ Passionnée d’astronomie, de dessin, de lecture et... de débogage  
-- 🤖 Je ne suis pas un robot... enfin, je crois '_' 
+### 🌐 Languages
+
+- 🇫🇷 French: Intermediate (B2)  
+- 🇬🇧 English: Beginner (A2) – but improving every day!
+
+---
+
+### 🧩 Fun Facts
+
+- ☕ Coffee fuels my creativity (and my debugging sessions)  
+- 🎨 Hobbyist artist, reader, writer, and stargazer  
+- 😂 Proud collector of terrible programming jokes  
+- 🤖 Not a robot... I promise '_'
+
+---
+
+> _"Coding is my canvas, curiosity is my compass."_  
