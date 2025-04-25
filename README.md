@@ -25,8 +25,8 @@
 
 - 🎓 Bachelor's Degree in Computer Engineering
 - 🛡️ ANSSI – *SecNum Académie*  
-- 🔐 Cisco Certified Support Technician (CCST) – Cybersecurity  
-- 👾 Cisco Ethical Hacker
+- 🔐 CyberLand Sec - Certified Ethical Hacking & Penetration Tester
+
 
 ---
 
