@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.planadviser.com%2Fexclusives%2Fhelping-relieve-clients-retirement-plan-cybersecurity-concerns%2F&psig=AOvVaw2WM9ZIEWMBN-EZmMbCGq5E&ust=1745654442031000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCcvNrb8owDFQAAAAAdAAAAABAJ" width="600" height="300"/>
+  <img src="https://si-interactive.s3.amazonaws.com/prod/planadviser-com/wp-content/uploads/2019/04/16101420/PA-041719-Cybersecurity-RFP-Lily-Padula-web.gif" width="600" height="300"/>
 </div>
 
 ---
