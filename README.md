@@ -1,19 +1,33 @@
 <div align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="600" height="300"/>
 </div>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->>>
 
-<br>
+---
 
-🌑 **Developer in the Making & Bug Hunter** – I write code, debug tirelessly, and bring wild ideas to life. When I'm not coding, I'm dreaming of making the web a bit friendlier (and maybe a tad less moody)
+## 🌑 Khamis Amaboua – Developer in Progress & Bug Hunter 
 
-🌑 **Currently diving into bot development and practical tools, with a dash of creativity and a sprinkle of persistence**
+👩🏾‍💻 **Développeuse junior passionnée** basée à Dakar, je transforme des idées en code et des bugs en fonctionnalités.  
+Curieuse, rigoureuse et toujours prête à apprendre, je jongle entre développement web, projets associatifs et café serré.
 
-🌑 **Coffee lover and collector of terrible coding jokes**
+### 🔧 Stack & Compétences
 
-🌑 **Fun fact:** I'm not a robot '_'
+- **Langages** : HTML, CSS, JavaScript, React.js, C, Python, SQL  
+- **Bases de données** : MySQL, MariaDB  
+- **Outils** : Visual Studio, Intellij, Xampp, Packet Tracer, Blender, SAP  
 
-<!----
-xomiscid/xomiscid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----->
+### 📚 Formations & Certifications
+
+- 🎓 Licence en Génie Informatique – Supdeco Dakar (ESITEC)  
+- 🛡️ ANSSI – SecNum Académie  
+- 🔐 Cisco CCST Cybersecurity & Ethical Hacker
+
+### 💬 Langues
+
+- 🇫🇷 Français : B2  
+- 🇬🇧 Anglais : A2
+
+### 🌌 Fun Facts
+
+- ☕ Accro au café et aux jeux de mots (même les pires)  
+- ✨ Passionnée d’astronomie, de dessin, de lecture et... de débogage  
+- 🤖 Je ne suis pas un robot... enfin, je crois '_' 
