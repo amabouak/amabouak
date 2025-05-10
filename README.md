@@ -5,7 +5,7 @@
 
 ---
 
-<h2 align="center">🌑 Khamis Amaboua – Developer in Progress & Bug Whisperer</h2>
+<h2 align="center">🌑 – Developer in Progress & Bug Whisperer</h2>
 
 <p align="center">
   A curious mind turning ideas into code and bugs into features. <br>
