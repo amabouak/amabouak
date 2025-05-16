@@ -33,8 +33,8 @@
 
 ### 🌐 Languages
 
-- 🇫🇷 French: Intermediate (B2)  
-- 🇬🇧 English: Beginner (A2) – but improving every day!
+- 🇫🇷 French: Native 
+- 🇬🇧 English: (B1) – but improving every day!
 
 ---
 
