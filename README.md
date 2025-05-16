@@ -18,7 +18,7 @@
 
 - **Languages:** HTML, CSS, JavaScript, C, Python, SQL  
 - **Databases:** MySQL, MariaDB  
-- **Tools & IDEs:** Visual Studio, IntelliJ, XAMPP, Packet Tracer, Blender, SAP
+- **Tools & IDEs:** Visual Studio, WireShark, Metasploit, XAMPP, Packet Tracer, Blender, SAP
 
 ---
 
