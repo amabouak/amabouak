@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.gifer.com/8JIk.gif" width="600" height="300"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Switch-arduino.gif?20200807135049" width="600" height="300"/> 
+  <!-- <img src="https://i.gifer.com/8JIk.gif" width="600" height="300"/> -->
   <!-- <img src="https://si-interactive.s3.amazonaws.com/prod/planadviser-com/wp-content/uploads/2019/04/16101420/PA-041719-Cybersecurity-RFP-Lily-Padula-web.gif" width="600" height="300"/> -->
 </div>
 
